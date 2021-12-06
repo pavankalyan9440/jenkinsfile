@@ -17,5 +17,5 @@ node {
     stage('Maven package') {
       sh 'mvn package'
 	}
-
+	
 }
